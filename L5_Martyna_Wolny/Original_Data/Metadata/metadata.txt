@@ -1,15 +1,15 @@
-Oryginalne dane dostępne są w pliku weather.txt w folderze /Original_Data. Plik został skopiowany również do folderu Analysis_Data.
+Oryginalne dane dostępne są w pliku weather.txt w folderze /Original_Data. Plik został skopiowany również do folderu /Analysis_Data.
 
 Dane po analizie są dostępne w:
-* /Analisys_Data/weather.csv - plik zawiera kopię danych z oryginalnego pliku weather.txt; dane zostały oczyszczone w celu ułatwienia edycji
+* /Analysis_Data/weather.csv - plik zawiera kopię danych z oryginalnego pliku weather.txt; dane zostały oczyszczone w celu ułatwienia edycji
 ** Pierwsza kolumna zawiera dane (id, rok, miesiąc, nazwa zmiennych)
 ** Następne kolumny zawierają wartości dla danego dnia w miesiącu
 
-* /Analisys_Data/weather_2010.csv - plik zawiera dane pogodowe z roku 2010
+* /Analysis_Data/weather_2010.csv - plik zawiera dane pogodowe z roku 2010
 ** Pierwsza kolumna zawiera dane (id, rok, miesiąc, nazwa zmiennych)
 ** Następne kolumny zawierają wartości dla danego dnia w miesiącu
 
-* /Analisys_Data/weather_2010_5_months.csv - plik zawiera dane pogodowe z roku 2010 dla pierwszych 5 miesięcy; dane zostały wyodrębione z pliku weather.csv
+* /Analysis_Data/weather_2010_5_months.csv - plik zawiera dane pogodowe z roku 2010 dla pierwszych 5 miesięcy; dane zostały wyodrębione z pliku weather.csv
 ** Id - string; id stacji pogodowej
 ** Date - string; data
 ** MIN TEMP - zmienna; minimalna temperatura w miesiącu
