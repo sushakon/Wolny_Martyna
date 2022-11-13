@@ -1,4 +1,4 @@
-Laboratorium 6: TIER protocol i tidy data
+Laboratorium 6: Exploratory Data Analysis
 
 Oryginalne dane dostępne są w pliku 12_swietokrzyskie.cvs w folderze /Original_Data. Plik został skopiowany również do folderu /Analysis_Data.
 
