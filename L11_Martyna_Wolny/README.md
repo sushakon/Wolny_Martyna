@@ -5,6 +5,10 @@
 ### 2. Ile ulic w Nowym Jorku ma nazwy zaczynające się na „B”, „Q” i „M”?
 
 ![Wybierz serwer](./img/zad_2.JPG)
+![Wybierz serwer](./img/zad_2_1.JPG)
+![Wybierz serwer](./img/zad_2_2.JPG)
+![Wybierz serwer](./img/zad_2_3.JPG)
+![Wybierz serwer](./img/zad_2_4.JPG)
 
 ### 3. Jaka jest populacja miasta Nowy Jork?
 
